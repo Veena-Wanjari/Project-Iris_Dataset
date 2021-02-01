@@ -20,4 +20,5 @@ __This folder consists of:__
 - Performed Univaraite analysis(PDF, CDF, Boxplot, Voilin plots) to understand which features are useful towards classification.
 - Perform Bi-variate analysis (scatter plots, pair-plots) to see if combinations of features are useful in classfication.
 3) iris.csv file
+4) Iris - (part2) - Interpretation
 
